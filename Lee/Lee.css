@@ -1,0 +1,62 @@
+*{margin: 0;padding: 0}
+body{text-align: center; }
+img{border: 0px;}
+ul,li{list-style: none;}
+
+#mainmenu_relative_bar{width: 1349px;height: 51px;background-color:rgb(0,0,0);position: relative;background-clip: boder-box;}
+#mainmenu_relative{width: 1260px;height: 50px;margin: auto;}
+.menutab {width: 52px;height: 12px;padding: 19px 10px 22px 10px;color: rgb(124,124,124);font-size: 13px;font-family: 'AdelleBasicBold','?????',SimHei,"Times New Roman",Times,serif;text-decoration: none;float: left;}
+.logo{float: left;display: block;width: 100px;height: 50px;}
+.menutab:hover{color: rgb(255,255,255);}
+#ss{color:rgb(255,255,255); }
+#global_about:hover{color: rgb(255,255,255);}
+#global_stores:hover{color: rgb(255,255,255);}
+.shops{width:60px;height: 15px;padding: 19px 10px 22px 0px;color: rgb(124,124,124);font-size: 13px;font-family: 'AdelleBasicBold','?????',SimHei,"Times New Roman",Times,serif;text-decoration: none;float: right;}
+.shops2{width:10px;height: 15px;padding: 19px 10px 22px 0px;color: rgb(124,124,124);font-size: 13px;font-family: 'AdelleBasicBold','?????',SimHei,"Times New Roman",Times,serif;text-decoration: none;float: right;}
+#aboutleebanner{width: 100%;height: 520px;background-color: rgb(0,0,0);}
+#mainBannerPicHolder{width: 900px;height: 500px;margin: 0 0 0 230px;}
+
+#mainBannerSlogan{width: 110px;height: 50px;background-image: url("images/icon_arrow.png");position: absolute;left: 659px;top: 434px;background-repeat: no-repeat;}
+#thumbHolder{width: 100%;height: 260px;padding: 40px 0 40px 0;}
+#Holder1{width: 330px;height: 295px;float: left;margin: 0 20px 0 180px;}
+.Holder2{width: 330px;height: 295px;float: left;margin: 0 20px 0 20px;}
+.titleq{margin: 20px 0 10px 0;text-align: left;}
+.thumbDesp{width: 310px;height: 68px;color: rgb(102,102,102);font-size: 14px;font-family: 'AdelleBasicBold','?????',SimHei,"Times New Roman",Times,serif;text-align: left;}
+.readmore{width: 80px;height: 14px;padding: 3px 0 0 0;margin: 10px 0 0 0;background-image: url("images/btn_readmore.png");background-position: 0 0;font-size: 10px;color: rgb(255,255,255);font-family:'AdelleBasicBold','?????',SimHei,"Times New Roman",Times,serif;float: left;text-decoration: none;text-align: center; }
+.readmore:hover{background-image: url("images/btn_readmore.png");background-position: 0 -17px;}
+#bannerHolder{width: 1000px;height: 150px;margin: 0 0 0 230px;}
+#socialHolder_inner{width: 990px;height: 440px;margin: 0 0 0 230px;}
+
+
+#footer{width: 100%;height: 287px;}
+#footer_head{width: 100%;height: 20px;background-color: rgb(0,0,0);}
+.point{display:block;width: 50px;height: 24px;margin: auto;background-image: url("images/footer_arrow.png");}
+#footer_center{width: 990px;height: 217px;margin: auto;padding: 20px 0 50px 0;}
+.footer_tab{width: 150px;height: 200px;color: rgb(102,102,102);font-size: 13px;float: left;border-right-style: dotted;border-right-color: rgb(207, 207, 207);border-right-width: 1px;}
+.fcontainer{width: 90px;height: 103px;padding: 10px 30px 10px 30px;}
+.footerLink{color: rgb(102,102,102);font-size: 11px;font-family: 'AdelleBasicBold','?????',SimHei,"Times New Roman",Times,serif;text-decoration: none;display: block;width: 50px;height: 13px;text-align: center;padding: 6px 0px 0 20px;}
+.footerLink:hover{color: rgb(0,0,0);}
+.footer_other{width: 270px;height: 200;background-image: url("images/bg_map.jpg");}
+.dq{text-align: left;padding: 10px 0 0 15px;}
+.dq1{text-align: left;padding: 10px 0 0 0px;}
+.footerLink1{display: block;width: 100px;height: 16px;padding: 2px 0 0 0;color: rgb(126,126,126);font-family: 'AdelleBasicBold','?????',SimHei,"Times New Roman",Times,serif;text-decoration: none;font-size: 12px;float: left;}
+.footerLink1:hover{color: rgb(0,0,0);}
+.footer_news{width: 205px;height: 188px;padding: 10px 30px;}
+#footer_submit{width: 205px;height: 66px;color: rgb(102,102,102);font-size: 11px;text-align: left;font-family: 'AdelleBasicBold','?????',SimHei,"Times New Roman",Times,serif;}
+#btn_signup_box{width: 200px;height: 26px;margin: 10px 0 0 0;background-color: rgb(234,234,234);color: rgb(102,102,102);font-size: 11px;font-family:'AdelleBasicBold','?????',SimHei,"Times New Roman",Times,serif;}
+#signup_news{width: 130px;height: 18px;margin: 5px 10px 0 10px;background-color: rgb(234,234,234);border-style: none;float: left;}
+#newsletterSubmit{display:block;width: 24px;height: 26px;margin: 0 10px 0 0;padding: 0 6px 0 6px;float: right;background-image: url("images/btn_go_tc.png");background-position: 0 0;border-style: none;}
+#newsletterSubmit:hover{background-image: url("images/btn_go_tc.png");background-position: 0 -26px;}
+#footer_weibo{width: 24px;height: 24px;margin: 4px 8px 8px 0;float: left;background-image: url("images/icon_social.png");background-position: -111px 0;}
+#footer_douban{width: 24px;height: 24px;margin: 4px 8px 8px 0;float: left;background-image: url("images/icon_social.png");background-position: -256px 0;}
+#footer_renren{width: 24px;height: 24px;margin: 4px 8px 8px 0;float: left;background-image: url("images/icon_social.png");background-position: -220px 0;}
+#footer_weibo:hover{background-position: -111px -26px;}
+#footer_douban:hover{background-position: -256px -26px;}
+#footer_renren:hover{background-position: -220px -26px;}
+.clearboth{width: 205px;height: 15px;margin: 30px 0 0 0;}
+#lt{text-align: left;font-weight: 600;color: rgb(0,0,0);font-size: 12px;}
+#ht{text-align: left;}
+
+.socialTab{width: 330px;height: 400px;padding: 20px 0 20px 0;float: left;}
+#socialTab1{width: 308px;height: 29px;background-image: url("images/social_weibo.png");background-position: 50% 0px;cursor: pointer;}
+#socialTab1:hover{background-image: url("images/social_weibo.png");background-position: 50% -29px;}
