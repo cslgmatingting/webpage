@@ -1,0 +1,83 @@
+*{margin: 0;padding: 0}
+body{text-align: center; }
+img{border: 0px;}
+ul,li{list-style: none;}
+
+#tp1{width: 1000px;height: 420px;margin: auto;}
+#tp11{width: 1000px;height: 87px;}
+#tp12{width: 1000px;height: 167px;background-image: url("images/tjtv_201011_fnms_01.jpg");}
+#tp13{width: 1000px;height: 166px;background-image: url("images/tjtv_201011_fnms_02.jpg");}
+
+#tp2{width: 1000px;height: 174px;margin: auto;}
+#tp21{width: 468px;height: 174px;float: left;background-image: url("images/tjtv_201011_fnms_03.jpg");}
+#tp22{width: 532px;height: 174px;float: right;background-image: url("images/tjtv_201011_fnms_04.jpg");}
+.txt1{color: rgb(0,0,0);font-family: 微软雅黑;font-size: 14px;line-height: 24px;text-align: left;padding: 20px 10px 0 10px;}
+
+#tp3{width: 1000px;height: 19px;background-image: url("images/tjtv_201011_fnms_05.jpg");margin: auto;}
+
+#tp4{width: 1000px;height: 287px;margin: auto;}
+#tp41{width: 17px;height: 287px;float: left;background-image: url("images/tjtv_201011_fnms_06.jpg");}
+#tp42{width: 317px;height: 287px;float:left;}
+#tp421{width: 317px;height: 21px;background-image: url("images/tjtv_201011_fnms_07.jpg");}
+#tp422{width: 317px;height: 205px;background-image: url("images/tjtv_201011_fnms_10.jpg");}
+#tp423{width: 317px;height: 21px;background-image: url("images/tjtv_201011_fnms_07.jpg");}
+#tp424{width: 317px;height: 40px;background-color:#cc070e;}
+#tp43{width: 16px;height: 287px;float: left;background-image: url("images/tjtv_201011_fnms_06.jpg");}
+#tp45{width: 650px;height: 287px;float: left;background-image: url("images/tjtv_201011_fnms_09.jpg");}
+.txt2{color: rgb(0,0,0);font-family: 微软雅黑;font-size: 14px;line-height: 24px;text-align: left;padding: 70px 10px 0 20px;}
+
+#tp5{width: 1000px;height: 1040px;border: 1px solid #ccc;margin: auto;}
+#tp51{width: 1000px;height: 104px;background-image: url("images/7429189_574933.jpg");}
+#tp52{width: 1000px;height: 794px;background-image: url("images/7429203_731900.jpg");}
+#tp53{width: 1000px;height: 24px;background-image: url("images/7429208_445809.jpg");}
+#tp54{width: 1000px;height: 118px;background-image: url("images/tjtv_201011_fnms_23.jpg");}
+#txt3{color: rgb(0,0,0);font-family: 微软雅黑;font-size: 16px;font-weight: 600;padding: 50px 0 0 0;}
+
+
+.im1{width: 996px;height: 198px;}
+.imm1{display:block;width: 323px;height: 190px;padding: 3px;float: left;}
+.imm11{width: 208px;height: 143px;border: 1px solid red;margin: 10px 0 0 40px;}
+.imm111{width: 200px;height: 135px;background-repeat: no-repeat;margin: 3px;cursor: pointer;}
+
+.txtp{width:210px;color: rgb(0,0,0);font-size: 12px;line-height: 20px;font-family: 宋体;text-decoration:none;}
+.txtp:hover{color: rgb(0,0,255);}
+.pt1{width: 216px;height: auto;}
+#k1{background-image: url("images/11575130_554622.jpg");}
+#k2{background-image: url("images/11425867_235518.jpg");}
+#k3{background-image: url("images/11403014_961604.jpg");}
+
+#k4{background-image: url("images/11331910_998462.jpg");}
+#k5{background-image: url("images/11247568_960359.jpg");}
+#k6{background-image: url("images/11163323_973413.jpg");}
+
+#k7{background-image: url("images/11160370_946624.jpg");}
+#k8{background-image: url("images/11105542_827132.jpg");}
+#k9{background-image: url("images/11103354_459584.jpg");}
+
+#k10{background-image: url("images/11103355_499024.jpg");}
+#k11{background-image: url("images/11067932_852295.jpg");}
+#k12{background-image: url("images/11059413_021079.jpg");}
+
+
+#tp111{width: 160px;height: 83px;float: left;}
+.cc1{width: 150px;margin: 8px 0 0 0;height: 75px;display: block;}
+.cc2{width: 138px;margin: 2px 0 0 0;height: 69px;display: block;*width:110px;}
+#tp112{width: 703px;height: 83px;float: left;margin: 2px 0 0 0;*width: 690px;}
+#tp113{width: 135px;height: 69px;float: left;}
+
+
+
+#top1{display:block;width: 700px;height: 33px;background-image: url("images/lan.jpg");*width: 690px;}
+
+#top2{display:block;width: 730px;height: 24px;*width: 590px;}
+
+#top3{display:block;width:700px;height: 22px;background-image: url("images/001-44.jpg");*width: 690px;}
+.af1{text-decoration: none;font-size: 12px;font-family: 宋体;font-weight: 600;height: 14px;line-height: 14px;color: rgb(0,0,0);}
+.af2{text-decoration: none;font-size: 12px;font-family: 宋体;font-weight: 400;height: 14px;line-height: 14px;color: rgb(0,0,0);}
+#top11{width: 455px;height: 33px;margin: 0 0 0 180px;}
+#tops111{width: 36px;height: 33px;background-image: url("images/d.jpg");background-repeat: no-repeat;float: left;}
+#tops112{width: 36px;height: 33px;color: white;font-family: 宋体;font-size: 12px;float: left;line-height: 30px;}
+#tops113{width: 374px;height: 29px;float: left;}
+
+.txtq{margin: 4px 0 0 0;height: 20px;}
+#txtq1{margin: 5px 0 0 0;height: 20px;}
