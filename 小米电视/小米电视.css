@@ -1,0 +1,73 @@
+{margin: 0;padding: 0}
+body{text-align: center; }
+img{border: 0px;}
+ul,li{list-style: none;}
+.ahz-head{width: 1190px;height: 50px;margin: 0 auto;}
+#J_head_rightCon{float: right;line-height: 50px;cursor: pointer;}
+.ahz-head-leftCon{float: left;width: 72px;height: 50px;padding: 0 0 0 20px;color: rgb(67,74,84);font-size: 18px;line-height: 50px;font-weight: 400;margin: 0;cursor: pointer;}
+#main{margin: auto;width: 1190px;height: 818px;}
+#pic1{width: 1190px;height: 818px;background-image: url("images/mitv_108.jpg");background-repeat: no-repeat;margin: 0;}
+.htxt1{color: rgb(255,255,255);font-size: 56px;font-weight: 400;line-height: 160px;font-family: arial,"Hiragino Sans GB","Microsoft Yahei",sans-serif;margin: 0px 0 0 0;}
+.con{width: 1190px;height: 30px;margin: -18px 0 0 0;color: rgb(255,255,255);font-size: 29px;line-height: 30px;font-family: arial,"Hiragino Sans GB","Microsoft Yahei",sans-serif;text-align: center;}
+.price{width: 1190px;height: 30px;margin: 20px 0 0 0;color: rgb(255,255,255);font-size: 28px;text-align: center;font-family: arial,"Hiragino Sans GB","Microsoft Yahei",sans-serif;}
+#pic2{width: 1190px;height: 818px;background-image: url("images/mitv_109.jpg");background-repeat: no-repeat;margin: 0;display: none;}
+#pic3{width: 1190px;height: 818px;background-image: url("images/mitv_110.jpg");background-repeat: no-repeat;margin: 0;display: none;}
+#pic4{width: 1190px;height: 818px;background-image: url("images/mitv_111.jpg");background-repeat: no-repeat;margin: 0;display: none;}
+#pic5{width: 1190px;height: 818px;background-image: url("images/mitv_112.jpg");background-repeat: no-repeat;margin: 0;display: none;}
+
+.descp-conC{width: 1190px;height:1080px;margin:12px 0 0 75px;border-top-color: rgb(193,193,193);border-top-style: solid;border-top:2px solid #ccc;}
+.desc{color: rgb(102,102,102);font-family: Arial;line-height: 25px;font-size: 16px;font-weight: 600;}
+.htxt2{color: rgb(51,51,51);font-size: 50px;font-weight: 400;line-height: 50px;font-family: Arial;}
+.sxmb{display: block;width: 110px;height: 20px;padding: 50px 0 0 0;background-image: url("images/mitv_3.jpg");background-repeat: no-repeat;text-align: left;float: left;}
+.threed{display: block;width: 110px;height: 20px;padding: 50px 0 0 0;background-image: url("images/mitv_4.jpg");background-repeat: no-repeat;text-align: left;float: left;}
+.hd{display: block;width: 110px;height: 20px;padding: 50px 0 0 0;background-image: url("images/mitv_5.jpg");background-repeat: no-repeat;text-align: left;float: left;}
+.tsj{display: block;width: 118px;height: 20px;padding: 50px 0 0 0;background-image: url("images/mitv_6.jpg");background-repeat: no-repeat;text-align: left;float: left;}
+.dts{margin:0 3px 0 3px;display: block;width: 110px;height: 20px;padding: 50px 0 0 0;background-image: url("images/mitv_7.jpg");background-repeat: no-repeat;text-align: left;float: left;}
+.db{margin:0 10px 0 10px;display: block;width: 80px;height: 20px;padding: 50px 0 0 0;background-image: url("images/mitv_8.jpg");background-repeat: no-repeat;text-align: left;float: left;}
+.blue{display: block;width: 110px;height: 20px;padding: 50px 0 0 0;background-image: url("images/mitv_9.jpg");background-repeat: no-repeat;text-align: left;float: left;}
+.wifi{display: block;width: 110px;height: 20px;padding: 50px 0 0 0;background-image: url("images/mitv_10.jpg");background-repeat: no-repeat;text-align: left;float: left;}
+.funs{display: block;width: 970px;height: 70px;margin: 0 auto;}
+.sxmb1{display: block;width: 110px;height: 20px;padding: 50px 0 0 0;background-image: url("images/mitv_12.jpg");background-repeat: no-repeat;text-align: left;float: left;}
+.threed1{display: block;width: 110px;height: 20px;padding: 50px 0 0 0;background-image: url("images/mitv_3.jpg");background-repeat: no-repeat;text-align: left;float: left;}
+.hd1{display: block;width: 110px;height: 20px;padding: 50px 0 0 0;background-image: url("images/mitv_14.jpg");background-repeat: no-repeat;text-align: left;float: left;}
+.tsj1{display: block;width: 108px;height: 20px;padding: 50px 0 0 0;background-image: url("images/mitv_15.jpg");background-repeat: no-repeat;text-align: left;float: left;}
+.dts1{margin:0 3px 0 3px;display: block;width: 80px;height: 20px;padding: 50px 0 0 0;background-image: url("images/mitv_16.jpg");background-repeat: no-repeat;text-align: left;float: left;}
+.db1{margin:0 10px 0 10px;display: block;width: 80px;height: 20px;padding: 50px 0 0 0;background-image: url("images/mitv_17.jpg");background-repeat: no-repeat;text-align: left;float: left;}
+.blue1{display: block;width: 80px;height: 20px;padding: 50px 0 0 0;background-image: url("images/mitv_18.jpg");background-repeat: no-repeat;text-align: left;float: left;}
+.wifi1{display: block;width: 80px;height: 20px;padding: 50px 9px 0 0px;background-image: url("images/mitv_19.jpg");background-repeat: no-repeat;text-align: center;float: left;}
+.sxmb2{display: block;width: 110px;height: 20px;padding: 80px 0 0 0;background-image: url("images/mitv_22.jpg");background-repeat: no-repeat;text-align: left;float: left;}
+.threed2{display: block;width: 110px;height: 20px;padding: 80px 0 0 0;background-image: url("images/mitv_23.jpg");background-repeat: no-repeat;text-align: left;float: left;}
+.hd2{display: block;width: 110px;height: 20px;padding: 80px 0 0 0;background-image: url("images/mitv_24.jpg");background-repeat: no-repeat;text-align: left;float: left;}
+.tsj2{display: block;width: 110px;height: 20px;padding: 80px 0 0 0;background-image: url("images/mitv_25.jpg");background-repeat: no-repeat;text-align: left;float: left;}
+.funs2{width: 440px;display: block;height: 100px;margin: 70px auto 0 auto;}
+.descp-conC1{width: 1190px;height:683px;margin:12px 0 0 75px;border-top-color: rgb(193,193,193);border-top-style: solid;border-top:2px solid #ccc;background-image: url("images/mitv_26.jpg");}
+.descp-conG{width: 1190px;height: 122px;padding: 0 0 80px 0;margin: 0 auto;border-top-color: rgb(193,193,193);border-top-style: solid;border-top:2px solid #ccc;background-color:rgb(245,245,245);}
+.btn-round{width: 335px;height:24px;padding: 10px 0 8px 0;margin: 80px 0 0 0;background-color: rgb(255,111,61);color: rgb(255,255,255);cursor: pointer;font-size: 16px;height: 24px;text-decoration: none;}
+.descp-conH{width: 1190px;height: 210px;margin: 0 auto;padding: 50px 0 40px 0;background-color: rgb(248,248,248);color: rgb(101,109,120);border-top-color: rgb(193,193,193);border-top-style: solid;border-top:2px solid #ccc;background-color:rgb(254,254,254);}
+
+#icon{display: block;background-image: url("images/mitv_arrow.png");width: 38px;height: 21px;background-repeat: no-repeat;float: right;}
+.mfsh1{width: 280px;height: 210px;color: rgb(101,109,120);border-left-color: rgb(203,233,237);border-left-style: solid;border-left-width: 1px;float: left;font-size: 14px;line-height:10px;font-family: arial,"Hiragino Sans GB","Microsoft Yahei",sans-serif; }
+.con1{display: block;width: 290px;height: 50px;color: rgb(101,109,120);font-size: 14px;line-height: 10px;margin: 5px 0 8px 0;text-align: center;}
+.img{margin: -10px 0 8px 0;}
+#iconnt{background-image: url("images/icon-common.png");background-position: -148px 0;}
+.ttt{color: rgb(255,255,255);font-size: 12px;}
+#kk1{background-image: url("images/icon-common.png");background-position: -177px -5px;}
+#wb{background-image: url("images/icon-common.png");background-position: -458px -2px;}
+#wb:hover{background-image: url("images/icon-common.png");background-position: -485px -2px;}
+#kj{background-image: url("images/icon-common.png");background-position:-459px -24px; }
+#kj:hover{background-image: url("images/icon-common.png");background-position: -485px -23px;}
+#wx{background-image: url("images/icon-common.png");background-position: -462px -51px;}
+#wx:hover{background-image: url("images/icon-common.png");background-position: -486px -51px;}
+#gwc{background-image: url("images/icon-common.png");background-position: -294px -53px;}
+
+
+
+
+
+
+
+
+
+#xlk{width: 230px;height: 578px;display: block;background-color: rgb(255,251,234);position: absolute;}
+#xlk:hover{background-color: rgb(255,251,234);}
+.lis{width: 230px;height: 40px;display: block;}
