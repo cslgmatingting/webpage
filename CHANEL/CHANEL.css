@@ -1,0 +1,59 @@
+*{margin: 0;padding: 0}
+body{text-align: center; }
+img{border: 0px;}
+ul,li{list-style: none;}
+#mainNav{width: 1345px;height: 1300px;}
+#fixp{width:1345px;height: 550px;background-color:transparent;}
+#fixim{background-repeat: no-repeat;display:block;width:1000px;height: 500px;margin:auto;background-image: url("images/1280_INSIDE_CHANEL_COCO_TRAILER.jpg");position:fixed;margin: 20px 0 0 150px;*position: relative;}
+#border{width: 1345px;height: 10px;background-color: #000;}
+#footer{width: 1345px;height:800px;position: absolute;background-color: rgb(255,255,255);*position: relative;}
+
+#tittle{width: 1345px;height: 58px;}
+.titlestype{float:left;width: 387px;height: 22px;margin: 14px 20px 0 280px;*width: 550px;*margin: 14px 20px 0 200px;*margin: 14px 0 0 210px;}
+.wenben{width: 50px;height: 18px;color: rgb(76,76,76);font-size: 11px;font-weight: 300;line-height: 22px;font-family: 'abchanel-couture','abchanelcouture-lightregular',Simhei,Arial,Helvetica,sans-serif;text-decoration: none;float: left;margin: 0 10px 0 0;}
+.wenben:hover{color: rgb(0,0,0);}
+.first a{*width: 50px;*height: 18px;*float: left;}
+.first1 a{*width: 80px;*height: 18px;*float: left;}
+.nq1{*width: 50px;*height: 18px;*float: left;}
+.nq2{*width: 80px;*height: 18px;*float: left;}
+.nq3{*float: right;*width: 50px;*margin: 0 0 30px 0;*height:18px; }
+.titlestype1{width: 360px;height: 22px;float: left;margin:14px 20px 0 30px;}
+.wenben1{width: 80px;height: 18px;color: rgb(76,76,76);font-size: 11px;font-weight: 300;line-height: 22px;font-family: 'abchanel-couture','abchanelcouture-lightregular',Simhei,Arial,Helvetica,sans-serif;text-decoration: none;float: left;margin: 0 10px 0 0;}
+.wenben1:hover{color: rgb(0,0,0);}
+.wenben2{width: 50px;height: 18px;color: rgb(76,76,76);font-size: 11px;font-weight: 300;line-height: 18px;font-family: 'abchanel-couture','abchanelcouture-lightregular',Simhei,Arial,Helvetica,sans-serif;text-decoration: none;float: left;margin: 14px 0px 0 160px;*width: 50px;*margin: 14px 0 0 0;}
+.wenben2:hover{color: rgb(0,0,0);}
+
+
+#photoShow{width: 1345px;height: 235px;margin: 70px 0 0 0;}
+#photoShow1{width: 900px;height: 235px;margin: 0 0 0 230px;}
+.photoShowIm{float:left;width: 254px;height: 225px;margin: 0 0 0 30px;}
+.photoShowIm1{display:block;width: 254px;height: 170px;background-image: url("images/Coco-Chanel-508x340.jpg");}
+.txtS1{width: 254px;height: 11px;color: rgb(76,76,76);font-size: 11px;font-weight: 300;font-family:宋体 Arial,Helvetica,sans-serif;text-decoration: none;}
+.s1{margin: 12px 0 0 0;}
+.s2{margin: 6px 0 0 0;}
+.txtS2{width: 256px;height: 11px;color: rgb(76,76,76);font-size: 11px;font-weight: 300;font-family:宋体 Arial,Helvetica,sans-serif;text-decoration: none;}
+.photoShowIm2{display:block;width: 254px;height: 170px;background-image: url("images/home.jpg");}
+.photoShowIm3{display:block;width: 254px;height: 170px;background-image: url("images/push_2.jpg");}
+#shopInfo{width: 405px;height: 330px;margin: 10px 0 0 470px;*margin: 10px 0 0 300px;}
+
+.shopInfo1{width: 405px;height: 47px;padding: 35px 0 35px 0;}
+.shopInfoS{width: 405px;height: 18px;color: rgb(128,128,128);font-size: 13px;font-weight: 300;line-height: 18.2px;text-decoration: none;font-family: 'abchanel-couture','abchanelcouture-lightregular',Simhei,Arial,Helvetica,sans-serif;}
+.shopInfoS:hover{color: rgb(0,0,0);}
+.lis{margin: 3px 0 0 0;}
+.lis a{color: rgb(128,128,128);font-size: 13px;font-weight: 300;line-height: 18.2px;text-decoration: none;font-family: 'abchanel-couture','abchanelcouture-lightregular',Simhei,Arial,Helvetica,sans-serif;padding: 0 2px 0 2px;}
+.lis a:hover{color: rgb(0,0,0);margin: 6px 0 0 0;}
+
+#bottom{width: 1345px;height: 35px;float:left;margin: 35px 0 0 0;}
+#bottomright{width: 170px;height: 15px;float: right;padding:20px 20px 0 5px; *width: 500px;*padding: 20px 0 0 5px;*margin: 0 0 60px 0;}
+#bottomleft{width: 256px;height: 11px;color: rgb(76,76,76);font-size: 11px;font-weight: 300;font-family:宋体 Arial,Helvetica,sans-serif;text-decoration: none;float: left;margin: 20px 0 0 550px;}
+#bottomleft:hover{color: rgb(0,0,0);}
+.txtS21{width: 256px;height: 11px;color: rgb(76,76,76);font-size: 11px;font-weight: 300;font-family:宋体 Arial,Helvetica,sans-serif;text-decoration: none;margin: 0 0 0 10px;*width: 200px;}
+
+.txtS21:hover{color: rgb(0,0,0);}
+
+
+.back1{display:block;width: 254px;height: 170px;background-image: url("images/push_over_0.jpg");}
+.back2{background-image: url("images/push_over_1.jpg");}
+.back3{background-image: url("images/push_over_2.jpg");}
+
+.txtcolor{color:rgb(0,0,0);font-weight: 600;}
